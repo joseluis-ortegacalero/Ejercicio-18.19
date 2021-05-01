@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		5157FDF3263D0F5A00FAEE06 /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = 5157FDF2263D0F5A00FAEE06 /* main.c */; };
+		5157FDFB263D0FBB00FAEE06 /* Lista.c in Sources */ = {isa = PBXBuildFile; fileRef = 5157FDFA263D0FBB00FAEE06 /* Lista.c */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -25,6 +26,8 @@
 /* Begin PBXFileReference section */
 		5157FDEF263D0F5A00FAEE06 /* Ejercicio-18.19 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Ejercicio-18.19"; sourceTree = BUILT_PRODUCTS_DIR; };
 		5157FDF2263D0F5A00FAEE06 /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
+		5157FDF9263D0FBB00FAEE06 /* Lista.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Lista.h; sourceTree = "<group>"; };
+		5157FDFA263D0FBB00FAEE06 /* Lista.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = Lista.c; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +61,8 @@
 			isa = PBXGroup;
 			children = (
 				5157FDF2263D0F5A00FAEE06 /* main.c */,
+				5157FDF9263D0FBB00FAEE06 /* Lista.h */,
+				5157FDFA263D0FBB00FAEE06 /* Lista.c */,
 			);
 			path = "Ejercicio-18.19";
 			sourceTree = "<group>";
@@ -119,6 +124,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				5157FDF3263D0F5A00FAEE06 /* main.c in Sources */,
+				5157FDFB263D0FBB00FAEE06 /* Lista.c in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
