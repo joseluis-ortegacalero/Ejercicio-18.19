@@ -22,6 +22,7 @@ typedef struct Lista{
 }Lista;
 
 //Funciones accesibles desde el main.c INTERFAZ
+Lista* CrearListaVacia(void);
 
 
 #endif /* Lista_h */
